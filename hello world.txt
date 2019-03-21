@@ -1,2 +1,3 @@
 print ("hello world")
-print (:helo everyboby")
+print ("helo everyboby")
+print ("hello")
